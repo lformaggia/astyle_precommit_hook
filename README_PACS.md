@@ -2,3 +2,4 @@ This is a copy of `git@github.com:lformaggia/astyle_precommit_hook.git`, which i
 
 Read `README.md` for instructions. `pre-commit` is just a shell script, you may change some options if you wish. The one I am using here are the ones set up in the `apply-astyle` script, also added here.
 
+# Note: you mast have astyle properly installed in your system! 
